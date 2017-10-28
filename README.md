@@ -1,9 +1,8 @@
 # Data Science Capstone - October, 2017
 
-**This is the winning submission for the Oct. 2017 Data Science Capstone challenge hosted by DrivenData for the Microsoft Professional Data Science curriculum on EdX. **
-<br>
+**This is the winning submission for the Oct. 2017 Data Science Capstone challenge hosted by DrivenData for the Microsoft Professional Data Science curriculum on EdX.**
+
 [email](mailto:cbenge509@gmail.com)-  cbenge509, 2017
-<br>
 
 ## Links
 
