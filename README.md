@@ -34,3 +34,7 @@
 ## License
 
 - This project is released under a permissive MIT open source license ([LICENSE-MIT.txt](https://github.com/cbenge509/DataScienceCapstone_Oct2017/blob/master/LICENSE-MIT.txt)).  There is no warranty; not even for merchantability or fitness for a particular solution.
+
+## Notes
+
+This project was a lot of fun for me; it was my first time working with Python and my first machine learning experience.  I spent a great deal of time researching, experimenting, and learning from many people online who were willing to spend their time sharing with others.  In the interest of giving back, I am sharing my submission and write-up.  -C
