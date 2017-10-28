@@ -1,14 +1,14 @@
 # Data Science Capstone - October, 2017
 
-**This is the winning submission for the Oct. 2017 Data Science Capstone challenge hosted by DrivenData for the Microsoft Professional Data Science curriculum on EdX.**
+**This is the winning submission for the Oct. 2017 Data Science Capstone challenge hosted by DrivenData for the Microsoft Professional Data Science curriculum on EdX.  Public RMSE:  2.8992**
 
 [email](mailto:cbenge509@gmail.com)-  cbenge509, 2017
 
 ## Links
 
 - **Competition:**
-    - Challenge description:  https://datasciencecapstone.org/competitions/2/student-earnings/page/6/
-    - Final leaderboard : https://datasciencecapstone.org/competitions/2/student-earnings/leaderboard/
+    - Challenge description:  [DAT102x: Predict Student Earnings](https://datasciencecapstone.org/competitions/2/student-earnings/page/6/)
+    - Final leaderboard : [DAT102x: Leaderboard](https://datasciencecapstone.org/competitions/2/student-earnings/leaderboard/)
 - **Documentation**
     - Analysis of College Graduate Earnings : [Analysis of College Graduate Earnings.pdf](https://github.com/cbenge509/DataScienceCapstone_Oct2017/blob/master/Analysis%20of%20College%20Graduate%20Earnings.pdf)
 - **Models used**
