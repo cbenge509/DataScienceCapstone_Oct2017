@@ -25,11 +25,11 @@
             - [LinearRegression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)
             - [ElasticNet](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html#sklearn.linear_model.ElasticNet)
     - [XGBoost](https://github.com/dmlc/xgboost)
-          - [XGBoostRegressor](http://xgboost.readthedocs.io/en/latest/python/python_api.html)
+        - [XGBoostRegressor](http://xgboost.readthedocs.io/en/latest/python/python_api.html)
     - [Microsoft LightGBM](https://github.com/Microsoft/LightGBM)
-          - [LGBMRegressor](http://lightgbm.readthedocs.io/en/latest/Python-API.html)
+        - [LGBMRegressor](http://lightgbm.readthedocs.io/en/latest/Python-API.html)
     - [MLXTend](https://github.com/rasbt/mlxtend)
-          - [StackingRegressorCV](https://rasbt.github.io/mlxtend/user_guide/regressor/StackingCVRegressor/)
+        - [StackingRegressorCV](https://rasbt.github.io/mlxtend/user_guide/regressor/StackingCVRegressor/)
     
 ## License
 
