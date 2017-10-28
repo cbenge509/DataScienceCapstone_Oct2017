@@ -33,4 +33,4 @@
     
 ## License
 
-- This project is released under a permissive MIT open source license ([LICENSE-MIT.txt](https://github.com/cbenge509/DataScienceCapstone_Oct2017/blob/master/LICENSE-MIT.txt)).
+- This project is released under a permissive MIT open source license ([LICENSE-MIT.txt](https://github.com/cbenge509/DataScienceCapstone_Oct2017/blob/master/LICENSE-MIT.txt)).  There is no warranty; not even for merchantability or fitness for a particular solution.
