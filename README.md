@@ -10,7 +10,7 @@
     - Challenge description:  https://datasciencecapstone.org/competitions/2/student-earnings/page/6/
     - Final leaderboard : https://datasciencecapstone.org/competitions/2/student-earnings/leaderboard/
 - **Documentation**
-    - Analysis of College Graduate Earnings : https://github.com/cbenge509/DataScienceCapstone_Oct2017/blob/master/Analysis%20of%20College%20Graduate%20Earnings.pdf
+    - Analysis of College Graduate Earnings : [Analysis of College Graduate Earnings.pdf](https://github.com/cbenge509/DataScienceCapstone_Oct2017/blob/master/Analysis%20of%20College%20Graduate%20Earnings.pdf)
 - **Models used**
     - SciKit-Learn:
         - [ensemble methods](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble)
